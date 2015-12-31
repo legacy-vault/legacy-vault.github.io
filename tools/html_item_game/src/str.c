@@ -1,7 +1,7 @@
 // Legacy Vault
 // html_item_game
 // str.c
-// Version 1.2
+// Version 1.3
 
 #include <stdio.h>
 #include <stdlib.h>

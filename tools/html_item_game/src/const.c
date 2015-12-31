@@ -1,7 +1,7 @@
 // Legacy Vault
 // html_item_game
 // const.c
-// Version 1.2
+// Version 1.3
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -11,15 +11,15 @@
 
 // Consts
 extern const char *tool_name = "html_item_game tool";
-extern const char *tool_version = "1.2";
+extern const char *tool_version = "1.3";
 extern const int groupsN = 3; // G1 = {P1..P11}, G2 = {P4,P12..P16}, G3 = {P17..P25}.
 extern const int propertiesN = 26; // (!) Syncronize it with groupcat[*][*]
 extern const char *doctype_t = "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">";
 extern const char *doctype_g = "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">";
 extern const char *welcome_t = "<!-- WELCOME TO THE [LEGACY VAULT]! THIS HTML PAGE IS IN TEXT MODE -->";
 extern const char *welcome_g = "<!-- WELCOME TO THE [LEGACY VAULT]! THIS HTML PAGE IS IN GRAPHIC MODE -->";
-extern const char *charset_t = "<meta charset=\"utf-8\">";
-extern const char *charset_g = "<meta charset=\"utf-8\">";
+extern const char *meta_t = "<meta charset=\"utf-8\">\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"author\" content=\"Legacy Vault\">\r\n<meta name=\"description\" content=\"Legacy Vault Project is a Storage Place for Media Image Hash Sums which are used to check the Integrity of old Games CDs, oldschool Programs DVDs, as well as rare, classic, abandoned or retro MSDOS and Windows Stuff. Audio, Music, ancient and outdated Literature is also a Kind of History Preservation Act as they are Memory kept in compact Discs/Disks and 3.5 Inch Floppy Diskettes. All for Copleteness, Tradition and Order of Information on Planet Earth.\">\r\n<meta name=\"keywords\" content=\"Legacy, Vault, image, hash, integrity, check, storage, media, old, games, programs, oldschool, rare, classic, abandon, retro, dos, msdos, windows, audio, music, literature, ancient, outdated, history, preservation, project, memory, disc, disk, diskette, floppy, 3.5, compact, CD, DVD, copleteness, tradition, information, order, planet, earth\">\r\n";
+extern const char *meta_g = "<meta charset=\"utf-8\">\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"author\" content=\"Legacy Vault\">\r\n<meta name=\"description\" content=\"Legacy Vault Project is a Storage Place for Media Image Hash Sums which are used to check the Integrity of old Games CDs, oldschool Programs DVDs, as well as rare, classic, abandoned or retro MSDOS and Windows Stuff. Audio, Music, ancient and outdated Literature is also a Kind of History Preservation Act as they are Memory kept in compact Discs/Disks and 3.5 Inch Floppy Diskettes. All for Copleteness, Tradition and Order of Information on Planet Earth.\">\r\n<meta name=\"keywords\" content=\"Legacy, Vault, image, hash, integrity, check, storage, media, old, games, programs, oldschool, rare, classic, abandon, retro, dos, msdos, windows, audio, music, literature, ancient, outdated, history, preservation, project, memory, disc, disk, diskette, floppy, 3.5, compact, CD, DVD, copleteness, tradition, information, order, planet, earth\">\r\n";
 extern const char *b1 = "<b>";
 extern const char *b2 = "</b>";
 extern const char *br = "<br>";

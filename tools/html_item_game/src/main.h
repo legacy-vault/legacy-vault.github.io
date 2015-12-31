@@ -1,7 +1,7 @@
 // Legacy Vault
 // html_item_game
 // main.h
-// Version 1.2
+// Version 1.3
 
 #ifndef MAIN_H
 #define MAIN_H

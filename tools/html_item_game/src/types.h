@@ -1,7 +1,7 @@
 // Legacy Vault
 // html_item_game
 // types.h
-// Version 1.2
+// Version 1.3
 
 #ifndef TYPES_H
 #define TYPES_H

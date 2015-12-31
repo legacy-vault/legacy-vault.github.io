@@ -1,7 +1,7 @@
 // Legacy Vault
 // html_item_game
 // main.c
-// Version 1.2
+// Version 1.3
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -46,7 +46,7 @@ int main(int argc, char* argv[])
     bool blue = true;
 
 	// Intro
-	printf("Welcome to %s version %s.\r\n", tool_name, tool_version);
+	//printf("Welcome to %s version %s.\r\n", tool_name, tool_version);
 
     // Check Command Line Parameters ///////////////////////////////////////////
     if (argc == 3)
@@ -303,7 +303,7 @@ int main(int argc, char* argv[])
     fputs(title1, fp);
     fputs(siteTitle, fp);
     fputs(title2, fp);
-	fputs(charset_t, fp);
+	fputs(meta_t, fp);
     fputs(head2, fp);
     fputs(nl, fp);
     fputs(body1_t, fp);
@@ -379,7 +379,7 @@ int main(int argc, char* argv[])
     fputs(title1, fp);
     fputs(siteTitle, fp);
     fputs(title2, fp);
-	fputs(charset_g, fp);
+	fputs(meta_g, fp);
     fputs(head2, fp);
     fputs(nl, fp);
     fputs(body1_g, fp);
@@ -445,7 +445,7 @@ int main(int argc, char* argv[])
 
     ////////////////////////////////////////////////////////////////////////////
 
-    printf("Job is done. Have a good day.\r\n");
+    //printf("Job is done. Have a good day.\r\n");
 
     return 0;
 }

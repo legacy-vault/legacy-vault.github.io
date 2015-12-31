@@ -1,7 +1,7 @@
 // Legacy Vault
 // html_item_game
 // str.h
-// Version 1.2
+// Version 1.3
 
 #ifndef STR_H
 #define STR_H

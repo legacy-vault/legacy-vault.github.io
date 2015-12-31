@@ -1,7 +1,7 @@
 // Legacy Vault
 // html_item_game
 // const.h
-// Version 1.2
+// Version 1.3
 
 #ifndef CONST_H
 #define CONST_H
@@ -16,8 +16,8 @@ extern const char *doctype_t;
 extern const char *doctype_g;
 extern const char *welcome_t;
 extern const char *welcome_g;
-extern const char *charset_t;
-extern const char *charset_g;
+extern const char *meta_t;
+extern const char *meta_g;
 extern const char *b1;
 extern const char *b2;
 extern const char *br;
