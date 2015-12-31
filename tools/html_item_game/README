@@ -1,0 +1,79 @@
+================================================================================
+================================================================================
+================================================================================
+|                                                                              |
+| html_item_game                                                               |
+|                                                                              |
+================================================================================
+
+DESCRIPTION
+
+"html_item_game" is a simple tool which helps to fast create HTML files for the 
+project called "Legacy Vault". At one run this tool creates two pages in 
+different formats about games. The formats are: text format and graphic format.
+
+================================================================================
+
+USAGE
+
+html_item_game cfg_path out_path
+"cfg_path" is path to folder with configuration files. 
+"out_path" is path to folder which, when this tools finishes its job, will 
+contain two resulting HTML files named "item_t.htm" and "item_g.htm". 
+The tool re-writes existing files without asking, so, be sure that the output 
+folder (second parameter in command line) is set properly!
+
+================================================================================
+
+EXAMPLE OF USAGE
+
+/home/username/utils/html_item_game ~/site/cfg/1 ~/site/www/1
+
+================================================================================
+
+CONFIGURING
+
+All required sample configuration files are in the folder named "example". 
+To create new configuration: 
+1. copy the folder "example" to new location; 
+2. rename your new folder to desired name (e.g. "my_new_config"); 
+3. edit all its files, taking into consideration the syntax.
+
+================================================================================
+
+TECHNICAL INFORMATION
+
+This tool is written in C programming language. 
+All the source files of this tool are available in folder "src". 
+Preferred installation (compilation, build) method is usage of CMake utility.
+
+================================================================================
+
+INSTALLATION
+
+To make simple and fast installation of this tool from sources you may need to 
+have fresh version of "CMake" installed in your operating system. Installation 
+commands for the CMake-oriented method of installation are written in the file 
+INSTALL in the same folder with this README. 
+
+To build this tool using the CMake in GNU/Linux operating system (O.S.), despite
+the fact that this tool is written in C language, you should have both (C and 
+C++) compilers installed (CMake will not run if C++ compiler is not installed). 
+In Debian O.S. the default C compiler is gcc, C++ compiler is absent by default,
+but you can install g++ (GNU C++ Compiler).
+
+================================================================================
+
+AUTHORS
+
+This tool has been created by the authors of the "Legacy Vault" project.
+
+================================================================================
+
+SOFTWARE VERSION
+
+html_item_game version 1.2.
+
+================================================================================
+================================================================================
+================================================================================

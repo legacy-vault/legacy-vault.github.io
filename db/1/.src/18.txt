@@ -1,0 +1,18 @@
+For DOS the only Patch Version is 1.1. 
+<a target="_blank" href="https://yadi.sk/d/EsdiMn5omKvNa" title="ZIP.">[DOS 1.1]</a> <br><!-- fallup1d.zip -->
+
+For Windows the only official Patch is Version 1.1. 
+<a target="_blank" href="https://yadi.sk/d/KRJnT1RKmKvNf" title="ZIP.">[Win 1.1]</a> <br><!-- fallup1w.zip -->
+
+Official Patch 1.2 has not been released separately. 
+Game Version 1.2 was released only as a separate Release in various Regions. <br>
+
+For Windows, un-official Patches are Version 1.2 and 1.3.5 by TeamX. 
+<a target="_blank" href="https://yadi.sk/d/x0aFIX5wmKvNj" title="RAR.">[Win 1.2]</a> <!-- fallup12.rar -->
+<a target="_blank" href="https://yadi.sk/d/8pAN1R8omKvNk" title="ZIP.">[Win 1.2]</a> <!-- fallup12.zip -->
+<a target="_blank" href="https://yadi.sk/d/tarBgYT-mKvNn" title="RAR.">[Win 1.3.5]</a> <!-- fallup13.rar -->
+<a target="_blank" href="https://yadi.sk/d/EYzPQlotmKvNw" title="ZIP.">[Win 1.3.5]</a> <br><!-- fallup13.zip -->
+
+TeamX's Website is located at <a target="_blank" href="http://teamx.ru/">http://teamx.ru/</a>. 
+To install all the Patches and ensure that Everything has been patched, it is recommended 
+to install Patches in following Order: official 1.1, semi-official 1.2, un-official 1.3.5.

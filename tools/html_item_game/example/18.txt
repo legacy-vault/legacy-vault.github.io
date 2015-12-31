@@ -1,0 +1,11 @@
+For DOS, only Patch Version 1.1 exists. <a target="_blank" href="patch/fallup1d.zip" title="ZIP, 644 KiB.">[DOS 1.1]</a> 
+For Windows, official Patch is only Version 1.1. Official Patch 1.2 has not been released separately. 
+<a target="_blank" href="patch/fallup1w.zip" title="ZIP, 556 KiB.">[Win 1.1]</a> 
+For Windows, un-official Patches are Version 1.2 and 1.3.5 by TeamX. 
+<a target="_blank" href="patch/fallup12.rar" title="RAR, 735 KiB.">[Win 1.2]</a> 
+<a target="_blank" href="patch/fallup12.zip" title="ZIP, 1,1 MiB.">[Win 1.2]</a> 
+<a target="_blank" href="patch/fallup13.rar" title="RAR, 525 KiB.">[Win 1.3.5]</a> 
+<a target="_blank" href="patch/fallup13.zip" title="ZIP, 821 KiB.">[Win 1.3.5]</a> 
+TeamX's Website is located at <a target="_blank" href="http://teamx.ru/">http://teamx.ru/</a>. 
+To install all the Patches and ensure that Everything has been patched, it is recommended 
+to install Patches in following Order: official 1.1, semi-official 1.2, un-official 1.3.5.

@@ -1,0 +1,4 @@
+See each Game separately. <br>
+Note: Heroes of Might and Magic III: The Restoration of Erathia on the third CD Disk has strange EXE File. 
+Its Version is 1.1 but the File differs from v1.1 EXE File gained after patching the original R.o.E. EXE v1.0 
+to v1.1 with a separate 1.0-to-1.1 Patch.

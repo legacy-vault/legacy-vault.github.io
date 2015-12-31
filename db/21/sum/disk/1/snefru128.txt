@@ -1,0 +1,17 @@
+8abd40b4587bac2220fc6affc80a778b setup.ins
+9b39cfd49591cc9e8d3c9250c5b99cdb _INST32I.EX_
+a292c24ecc704995c198a349056ed8b0 Setup.exe
+1e2010dc684be19fef765a3e6d41f48e SETUP.INI
+dba88350add7e99c1f6f3915f67f2229 os.dat
+194fc55a3e557d669acb1cf116201026 layout.bin
+dfb0b775ac3f0ab552af21c5d409d389 data1.cab
+78f9a0419f219bdd25f76f16911ea831 _Setup.dll
+f5a4009f30b3a742006334f52401e1eb _sys1.cab
+0cfbb9158c0d99cd2cd54ef8fc554be9 _user1.hdr
+978db46dcd2e61846c31f8fd1eccaf4a _ISDel.exe
+3dd96a10c73d0961c5dd83f339d5d98f setup.lid
+56b8fcfa3345bb3d576eb87d35acc29e lang.dat
+aa398a55a372dc8861ec3c23aeaae87c _sys1.hdr
+dc514da1daf672fa5d6bb7f3cdddc623 DATA.TAG
+8444fd8744e5743210dfa988d33ab182 _user1.cab
+9e8a28a7b9ea22a3656895d40f8574bd data1.hdr

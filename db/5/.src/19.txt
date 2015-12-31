@@ -1,0 +1,29 @@
+<b>For DOS Version</b> <br>
+<br>
+CPU: 80486DX2 66 MHz or faster; <br>
+OS: DOS 5.0; <br>
+RAM: 8 MiB; <br>
+CD-ROM Drive Speed: 2X; <br>
+Sound Devices Supported: Adlib Gold, Ensoniq Soundscape, ESS AudioDrive, 
+Generic MPU-401 MIDI devices, Gravis Ultrasound / ACE, Microsoft Sound System, 
+PC Speaker, Pro Audio Spectrum, Pro Audio Spectrum 16, Pro Audio Spectrum Plus, 
+Roland MT-32 (and LAPC-I), Roland RAP-10, Sound Blaster, Sound Blaster 16, 
+Sound Blaster AWE32, Sound Blaster Pro, WaveJammer (PCMCIA); <br>
+Input Devices Supported: Keyboard, Mouse; <br>
+Multiplayer Options: Hot Seat, Modem, NetBIOS, Null-Modem Cable; <br>
+Number of Players: 1 ~ 6 Players; <br>
+Miscellaneous Attributes: Audio CD Tracks. <br>
+
+<br>
+
+<b>For Windows Version</b> <br>
+<br>
+CPU: 80486DX2 66 MHz or faster; <br>
+OS: Windows 95; <br>
+RAM: 8 MiB; <br>
+CD-ROM Drive Speed: 2X; <br>
+Minimum DirectX Version: DirectX 3; <br>
+Input Devices Supported: Keyboard, Mouse; <br>
+Multiplayer Options: Hot Seat, Modem, NetBIOS, Null-Modem Cable; <br>
+Number of Players: 1 ~ 6 Players; <br>
+Miscellaneous Attributes: Audio CD Tracks. <br>

@@ -1,0 +1,2 @@
+7acae07c88dbbc02777cf5badd4f4efc FALLOUT2.bin
+cd0da02869bd8cbe77c730720b078112 FALLOUT2.cue

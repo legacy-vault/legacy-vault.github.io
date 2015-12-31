@@ -1,0 +1,5 @@
+Official Patches for Windows Version: 1.1. 
+<a href="https://yadi.sk/d/-l9HTJAomQtzm" target="_blank">[1.1]</a> <!-- hw9511.zip -->
+<a href="https://yadi.sk/d/sWowBmmGmQu35" target="_blank" title="Un-Official Patch">[1.2]</a> <!-- hw9512.zip -->
+<br>
+Official Windows Version 1.2 exists only as separate Heroes of Might and Magic Compendium Edition.

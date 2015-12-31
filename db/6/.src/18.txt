@@ -1,0 +1,5 @@
+Both DOS and Windows Versions of the Game have Patches: 2.1. 
+
+<a href="https://yadi.sk/d/0G6Bt22umSDvQ" target="_blank">[DOS 2.1]</a> <!-- h2dexp21.zip -->
+
+<a href="https://yadi.sk/d/rLMN18kCmSDvW" target="_blank">[WIN 2.1]</a> <!-- h2wexp21.zip -->

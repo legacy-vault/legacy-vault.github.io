@@ -1,0 +1,2 @@
+2fdbd71129ad17fd5b7ecbb4c4f9249c H3ROE.cue
+a55ae4f399cc1ed20f7be18e26f641e9 H3ROE.bin

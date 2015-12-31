@@ -1,0 +1,2 @@
+03ff546e4b86f48048733dc4fdacee6d22420b35 heroes3-complete-play.iso
+cdb6c23a04284ec75060121d5e7c54ed6872997e heroes3-complete-install.iso

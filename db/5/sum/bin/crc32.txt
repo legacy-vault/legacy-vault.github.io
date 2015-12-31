@@ -1,0 +1,4 @@
+126c7f46 HEROES2.ccd
+a9919429 HEROES2.cue
+be2b2f7f HEROES2.img
+f1f1fd7b HEROES2.sub

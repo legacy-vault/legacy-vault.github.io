@@ -1,0 +1,7 @@
+CPU: 80486DX2; <br>
+OS: Windows 95; <br>
+RAM: 8 MiB; <br>
+CD-ROM Drive Speed: 2X; <br>
+Minimum Video Memory: 2 MiB; <br>
+Input Devices Supported: Keyboard, Mouse; <br>
+Multiplayer Options: Hot Seat, Modem, NetBIOS, Null-Modem Cable.

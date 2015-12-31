@@ -1,0 +1,10 @@
+Both DOS and Windows Versions of the Game have Patches: 1.1, 1.2 and 1.3. 
+
+<a href="https://yadi.sk/d/F_4Gh93emSDZ7" target="_blank">[DOS 1.1]</a> <!-- H2DOS11.ZIP -->
+<a href="https://yadi.sk/d/auZ8YF9jmSDYt" target="_blank">[DOS 1.2]</a> <!-- H2D10-12.ZIP -->
+<a href="https://yadi.sk/d/6gHO2sSZmSDZ3" target="_blank">[DOS 1.3]</a> <!-- H2D10-13.ZIP -->
+
+
+<a href="https://yadi.sk/d/18sssHH2mSDmF" target="_blank">[WIN 1.1]</a> <!-- H2W9511.ZIP -->
+<a href="https://yadi.sk/d/TopoI0R_mSDm4" target="_blank">[WIN 1.2]</a> <!-- H2W10-12.ZIP -->
+<a href="https://yadi.sk/d/hgJn-YrKmSDm8" target="_blank">[WIN 1.3]</a><!-- H2W10-13.ZIP -->

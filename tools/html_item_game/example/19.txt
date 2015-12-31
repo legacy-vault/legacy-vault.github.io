@@ -1,0 +1,3 @@
+For DOS Version: Intel Pentium 90 MHz CPU, 32 MiB RAM, 2x-Speed CD-ROM Drive, 1 MiB VESA-compliant SVGA graphics Card, 
+SoundBlaster-compatible sound Card, 10+ MiB on HDD. For Windows 95 Version: Intel Pentium 90 MHz CPU, 16 MiB RAM, 
+2x-Speed CD-ROM Drive, 1 MiB VESA-compliant SVGA graphics Card, DirectSound-compatible sound Card, 10+ MiB on HDD.

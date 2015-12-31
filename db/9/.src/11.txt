@@ -1,0 +1,14 @@
+The Gameplay is very similar to its Predecessors in that the Player controls a Number of Heroes 
+that command an Army of Creatures inspired by Myth and Legend. 
+The Gameplay is divided into two Parts: tactical Overland Exploration and a Turn based Combat System. 
+The Player creates an Army by spending Resources at one of the eight Town Types in the Game. 
+The Hero will progress in Experience by engaging in Combat with enemy Heroes and Monsters. 
+The Conditions for Victory vary depending on the Map, including Conquest of all Enemies and Towns, 
+Collection of a Certain amount of a Resource, or finding the Grail Artifact. <br>
+<br>
+<small>
+This is the first Release of HoMM III with no Copy Protection yet. Only this Version of Game has 
+2 Sets of Cutscene Movie Files: Smack (low Quality) and Bink (high Quality). 
+In all later Versions of HoMM III all such Movies except Intros and Endings are only in Smack Format, 
+making "Video Quality" Option worthless.
+</small>

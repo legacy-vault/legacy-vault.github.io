@@ -1,0 +1,12 @@
+adada83ab4d1f12ac7c70994f1b0e872 hmmme3.cue
+d8a3bd34eff7e7c2d75e4a4300be3938 hmmme1.cue
+29b74f0b17cec6728ae211434e99bda4 hmmme3.img
+63ce20aab50fe4d6a4fa8b3f53ca7dea hmmme2.img
+68e7f704dc2f0c1018eb863c96c56114 hmmme2.cue
+e2c37a56e7259aa0bf8ada7fd4805c85 hmmme3.sub
+de2b1b7e79a0bec4929a691d25a7826c hmmme1.sub
+da92f23070897ff4b4adc072efae6ec0 hmmme2.ccd
+dc4a634346773f3572d3b1e0df322b02 hmmme1.img
+e770c51134cb2688a7eb545f6370824c hmmme1.ccd
+0d7cf6538fec346860c9bee10ca061ee hmmme3.ccd
+11f38501d84ddfd4615f9208dba8dd9f hmmme2.sub

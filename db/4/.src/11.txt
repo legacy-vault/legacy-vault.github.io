@@ -1,0 +1,10 @@
+This is the first and unique Release of Heroes of Might and Magic, 
+containing the original Soundtrack in the Red Book Audio Format (CD-DA, CD Digital Audio). 
+The Disk contains several additional Maps (if compared with DOS Version Release), 
+the Map Editor and the King's Bounty Game as a Bonus. <br>
+<br>
+<small>
+To be able to play Audio CD Tracks, the CD-Drive in Windows must be the first CD-Drive in the System. 
+In other Words, the Letter of the CD-Drive must be the first Letter among all CD-Drives in System. 
+Example: if you have three CD-Drives D:, E: and F:, CD must be in the Drive with Letter  D:.
+</small>

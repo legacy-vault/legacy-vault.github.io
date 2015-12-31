@@ -1,0 +1,12 @@
+The Gameplay is very similar to its Predecessors in that the Player controls a Number of Heroes 
+that command an Army of Creatures inspired by Myth and Legend. 
+The Gameplay is divided into two Parts: tactical Overland Exploration and a Turn based Combat System. 
+The Player creates an Army by spending Resources at one of the eight Town Types in the Game. 
+The Hero will progress in Experience by engaging in Combat with enemy Heroes and Monsters. 
+The Conditions for Victory vary depending on the Map, including Conquest of all Enemies and Towns, 
+Collection of a Certain amount of a Resource, or finding the Grail Artifact. <br>
+<br>
+<small>
+This Expansion Pack introduces Safedisc v1.30.010 Copy Protection with 813 weak Sectors in Range from 970 to 10217. 
+Official Patches 2.1 and 2.2 remove the Copy Protection Mechanism.
+</small>

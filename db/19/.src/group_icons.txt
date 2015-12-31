@@ -1,0 +1,3 @@
+<img src="../../img/ico/help.png" width="32" height="32">
+<img src="../../img/ico/disk.png" width="32" height="32">
+<img src="../../img/ico/game.png" width="32" height="32">

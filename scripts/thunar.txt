@@ -1,0 +1,11 @@
+1. Archive Folder (12)
+cd %D && sh /.../scripts/archive_create.sh %n
+only for Folders
+
+2. Hash Create (25)
+cd %f && sh /.../scripts/hash_create.sh
+only for Folders
+
+3.
+...
+...

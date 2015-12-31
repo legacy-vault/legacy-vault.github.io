@@ -1,0 +1,2 @@
+1ced5e3d0913c535a53cb3fb74a81d3a8cecba998a4d0fe4cca7e2aefa65a800 heroes3-complete-play.iso
+c95d5f45f8b2e0a7f90cc9a69de2951d7d83fe4f3eb4c4ee87820d9db9463b41 heroes3-complete-install.iso

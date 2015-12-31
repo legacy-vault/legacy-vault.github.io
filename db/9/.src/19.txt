@@ -1,0 +1,27 @@
+<b>For Linux: </b><br>
+CPU: Pentium; <br>
+Supported Kernels and Libraries: Kernel 2.2.x; <br>
+RAM: 32 MiB; <br>
+CD-ROM Drive Speed: 4X; <br>
+Drivers/APIs Supported: X11R6; <br>
+Sound Devices Supported: OSS Compatible Sound Card; <br>
+Input Devices Supported: Keyboard, Mouse. <br>
+
+<br>
+<b>For Macintosh: </b><br>
+CPU: PowerPC 603e, 180 MHz or faster; <br>
+OS: Mac OS 8.1; <br>
+RAM: 64 MiB; <br>
+CD-ROM Drive Speed: 4X; <br>
+Input Devices Supported: Keyboard, Mouse; <br>
+
+<br>
+<b>For Windows: </b><br>
+CPU: Intel Pentium 133 MHz; <br>
+OS: Windows 95; <br>
+RAM: 32 MiB; <br>
+CD-ROM Drive Speed: 4X; <br>
+Minimum DirectX Version Required: DirectX 6; <br>
+Sound Card compatible with DirectX 7.0; <br>
+320 MiB on HDD; <br>
+Input Devices Supported: Keyboard, Mouse.

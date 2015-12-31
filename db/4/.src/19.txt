@@ -1,0 +1,6 @@
+CPU Class: 80486; <br>
+OS Class: Windows 3.1, Windows 95; <br>
+RAM: 8 MiB; <br>
+CD-ROM Drive Speed: 2X; <br>
+Video Modes Supported: Window; <br>
+Input Devices Supported: Keyboard, Mouse.

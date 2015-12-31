@@ -1,0 +1,4 @@
+029c221c H1WIN.cue
+5a53b918 H1WIN.img
+8a33d463 H1WIN.sub
+99da3568 H1WIN.ccd

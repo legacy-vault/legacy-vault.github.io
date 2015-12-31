@@ -1,0 +1,17 @@
+96fa5a1a setup.ins
+cac45f4d _INST32I.EX_
+d3b40b34 Setup.exe
+1b5b918f SETUP.INI
+2d71e76e os.dat
+ea62bdbf layout.bin
+99425195 data1.cab
+046903a6 _Setup.dll
+b5d70da1 _sys1.cab
+a84ca05d _user1.hdr
+c26dc85b _ISDel.exe
+3637907d setup.lid
+68d98fb7 lang.dat
+33e6736d _sys1.hdr
+549037a8 DATA.TAG
+01a8e750 _user1.cab
+c997174c data1.hdr

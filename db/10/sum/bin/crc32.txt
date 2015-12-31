@@ -1,0 +1,12 @@
+737d71cd hmmme3.cue
+000133e8 hmmme1.cue
+66fb7693 hmmme3.img
+a73b1f5c hmmme2.img
+6df8bb7f hmmme2.cue
+ee48c1cd hmmme3.sub
+2e14c9ee hmmme1.sub
+12caba8d hmmme2.ccd
+13f41eff hmmme1.img
+37f13095 hmmme1.ccd
+c1b4d3ce hmmme3.ccd
+e0d7ba97 hmmme2.sub

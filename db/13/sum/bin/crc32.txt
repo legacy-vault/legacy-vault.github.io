@@ -1,0 +1,2 @@
+d00881b0 heroes3-complete-play.iso
+02c4051d heroes3-complete-install.iso

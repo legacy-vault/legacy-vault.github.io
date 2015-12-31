@@ -1,0 +1,14 @@
+Last official Patch for U.S. Edition Game is Version 1.02d. 
+<a target="_blank" href="https://yadi.sk/d/w6koyzEPmKvzn" title="ZIP.">[1.02d]</a> <br><!-- f2v102d.zip -->
+
+Last un-official Patch is Version 1.02.31 by Killap. 
+<a target="_blank" href="https://yadi.sk/d/7Xp9CTC0mKvzx" title="EXE.">[1.02.31 Win, Automatic]</a> <!-- unofficialFO2patch.exe -->
+<a target="_blank" href="https://yadi.sk/d/WwPcA8KOmKvxd" title="ZIP.">[1.02.31 Win, Automatic]</a> <!-- 1.02.31_auto.zip -->
+<a target="_blank" href="https://yadi.sk/d/ROz5UquumKw32" title="RAR.">[1.02.31 Win, Manual]</a> <!-- unofficialFO2patch_manual_install.rar -->
+<a target="_blank" href="https://yadi.sk/d/1VYfUGbQmKvzd" title="ZIP.">[1.02.31 Win, Manual]</a> <!-- 1.02.31_manual.zip -->
+<a target="_blank" href="https://yadi.sk/d/WNMk73P8mKvzr" title="RAR.">[1.02.31 Mac]</a> <!-- Killap.unofficialFO2patch-Mac.rar -->
+<a target="_blank" href="https://yadi.sk/d/YU4K26lomKvyE" title="ZIP.">[1.02.31 Mac]</a> <br><!-- 1.02.31_mac.zip -->
+
+Killap's Website is located at <a target="_blank" href="http://www.killap.net/">http://www.killap.net/</a>. 
+To install all the Patches and ensure that Everything has been patched, it is recommended to install 
+Patches in following Order: official 1.02d, un-official 1.02.31.

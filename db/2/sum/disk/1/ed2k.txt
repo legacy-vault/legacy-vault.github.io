@@ -1,0 +1,409 @@
+bba2a8915cda734b82dcbfc020b7e981 alternity/alternity.exe
+310731294a80f32e63480b71289555cc autorun/autorun.dat
+138f782eabe81d4d0c2c3e552e57130e autorun/autorun.exe
+3e95c2cb6569bae130b1943eecaeffe3 autorun/dsetup.dll
+d08e6f5fb71fe4aae1651791d17bedcb autorun/dsetup6e.dll
+872fe64902b8f1e2ff4efd5015b2fcd6 autorun/dsetup6j.dll
+7b4df58acade125aec2f4084e7de3967 autorun/dsetupe.dll
+92d62349392769616beb829178d3e56c autorun/dsetupj.dll
+5ea1f41fcd93c69684a11230a499ba84 autorun/fallout2.ico
+a6acd32b66142a34ea9240a4cd9ecf78 autorun.inf
+527deb00cd7d188078bd7b7cb9b33385 critter.dat
+406b7ce28841dc1847cf4f801fa844da data/sound/music/01hub.acm
+c20f88f20dffc452b1a8fa48951ce681 data/sound/music/03wrldmp.acm
+9b6db97e6aeef3a7fb9f2bc8cb6670a2 data/sound/music/05raider.acm
+07cc1e372ed43cdfff6a69e3cb6b1f16 data/sound/music/07desert.acm
+e748380e1b7545e8904b3d8de11e4afb data/sound/music/08vats.acm
+6f7033156025e855144c1abdbb0d990f data/sound/music/10labone.acm
+e68f68a1b2a9e4a8113ea8fbe8d8c14f data/sound/music/12junktn.acm
+139d05bbdafd30e3553c7b577a4fd83e data/sound/music/13carvrn.acm
+fedb0ef52424a7b95bdf75e5993da6fd data/sound/music/14necro.acm
+11aac6f33557d4d497fe0a17326742f6 data/sound/music/16follow.acm
+53c5ce4ad832b79f9ce3234de32260d5 data/sound/music/17arroyo.acm
+5196ef4fab9225d5daaca7a02aca1652 data/sound/music/18modoc.acm
+c95196d1c67e4156dbcbe143b729fa4f data/sound/music/19reno.acm
+987564e072160f50db2498119f2a9d54 data/sound/music/20car.acm
+b1c3d10a4ac17fc70fca9f80bf801ab2 data/sound/music/21sf.acm
+a38c943af6ca42788cdbccb7ba1e32f7 data/sound/music/22vcity.acm
+d86b992ee0ed03d9ae50d9692e7dedb8 data/sound/music/23world.acm
+025d7812336de3940a1bd5dc91b3c762 data/sound/music/24redd.acm
+760cded3337dd9aef4b658b47d7661d2 data/sound/music/akiss.acm
+e7225868cbb806536e879812860654dd data/sound/music/alarm1.acm
+d1d89669456441e65b39e9d7b543c269 data/sound/music/alarm2.acm
+a904323ffd992512375b1013aa3e0bda data/sound/music/wind1.acm
+168122d16b4d7874f7a62c6c8973e38d data/sound/music/wind2.acm
+bf23e04e339f914c1ea936ffd06c8725 directx5/directx/d3d.inf
+1da21502f6ed18734723fb0014b88696 directx5/directx/d3dhalf.dll
+51fc8f650d7df9d7d739e6634bf60aee directx5/directx/d3dim.dll
+4236e18d9b0bf0d4082dbbebb505d65c directx5/directx/d3dpmesh.dll
+30d925b8a23c88095eac5dcb877b05df directx5/directx/d3drampf.dll
+bb21018397c044f2fdd993f9b79353e9 directx5/directx/d3drg16f.dll
+45dafcd8f999b4f3f9028fdeed3dfba2 directx5/directx/d3drg24f.dll
+9982cf38b928a243a6f6cfe7bbb9ee91 directx5/directx/d3drg24x.dll
+15cf2b36b7d86ce9b0da88ded99f3697 directx5/directx/d3drg32f.dll
+025f8c8c79c662a83644df1c74261060 directx5/directx/d3drg32x.dll
+e8ed32ab40abcb0e25cbb744c843feae directx5/directx/d3drg55x.dll
+ee8c670285bf5984221ef0904300ec1d directx5/directx/d3drg56x.dll
+5c4d1cd056a7aeb86db779807a889e0e directx5/directx/d3drg8f.dll
+8d5dc933696ac2a3f3eeb82f5c997e86 directx5/directx/d3drg8x.dll
+9d62f9b3ece1e85a4bf8048c64cb0878 directx5/directx/d3drgbf.dll
+77f95f4989fc26a6eae0a8d024a78da7 directx5/directx/d3drgbxf.dll
+57ae1980360c1378552b89d7218cc468 directx5/directx/d3drm.dll
+7c517d9e5fce2185391c95289b7e6924 directx5/directx/d3drm16f.dll
+d67531f7bbaf220f9b7451e2bb54a8d1 directx5/directx/d3drm24f.dll
+06c5882c08741c1d6a175d29164f177d directx5/directx/d3drm32f.dll
+3293a4d945e0e7c5eb699acba3e73133 directx5/directx/d3drm8f.dll
+437ee7cdab05b68144059b8d07f6ad92 directx5/directx/d3dxof.dll
+c1e2120db79fe3ba9744555befeb3bb7 directx5/directx/ddhelp.exe
+671d7d98489a608627b6bd44c5709eb5 directx5/directx/ddraw.dll
+ac5af8ab1195838b961935df6c2f2c91 directx5/directx/ddraw.inf
+ea94a45fcb96dd93b48a891d781b3833 directx5/directx/ddraw16.dll
+a0be91a535a1389c72979b37cdd04f6c directx5/directx/devnode1.dll
+e47d1f9a759629830dd81504c4bf9f21 directx5/directx/devnode2.dll
+e492fb3f4d34004ac18a1c39138ab68a directx5/directx/dijoy.hlp
+d8856cdae763276890384b56ad74d1af directx5/directx/dinp.inf
+b3b91436dbf5504131c25905b1941d9c directx5/directx/dinpbrz.inf
+4dc028aaabfdd14e954ed519745c4ef3 directx5/directx/dinpchs.inf
+019e3bbcdfe791737f41f88950df2781 directx5/directx/dinpcht.inf
+78b85cc12e69b81491eca69f7edce10f directx5/directx/dinpcze.inf
+92927fc6f73e09014713bf98036bc35e directx5/directx/dinpdut.inf
+3a208c919c20a07d1b64e83cc0ca662c directx5/directx/dinpfrn.inf
+26ffcf7862eff9faa4fd58c72646e290 directx5/directx/dinpger.inf
+7f9d5ff48badd7fcff55309bb5fa12a3 directx5/directx/dinpitn.inf
+e16f3aae46f8c1299ebb16137bf67d22 directx5/directx/dinpjpn.inf
+9016bbad82f2169f8fc9bea002fa8176 directx5/directx/dinpkor.inf
+e16f3aae46f8c1299ebb16137bf67d22 directx5/directx/dinpnec.inf
+3dbb7f13b4f7eaebbe20fbdaca949557 directx5/directx/dinppol.inf
+be7a9f3b43e12faa94152ace02e1f573 directx5/directx/dinprus.inf
+2daf4da78c5f29c966497b12ea7d29e4 directx5/directx/dinpspa.inf
+d8856cdae763276890384b56ad74d1af directx5/directx/dinpspm.inf
+ff9b0906ea3c4af0effaaeac4625e016 directx5/directx/dinpswe.inf
+4a2932096ffe68d23f0a7eca02ae441e directx5/directx/dinput.dll
+35d98ab0c961b7a17f1b1583e88acf8f directx5/directx/dinput.vxd
+b77d0014fef4ab3223c5b73d0706a7fb directx5/directx/directx.inf
+064ee896c5f17d2342932941e25bc572 directx5/directx/dplay.dll
+732d972eb17e15670b4221112ffb464e directx5/directx/dplay.inf
+cbe9f75e3950fa1c62d061a266f9b508 directx5/directx/dplaybrz.inf
+3d7759106010da0c7e9121ad12be9a67 directx5/directx/dplaydx2.inf
+74b003afbdb9f5c99fa02417efce78fd directx5/directx/dplayfrn.inf
+17246c9cdf1a9c965e363b0a9496665e directx5/directx/dplayger.inf
+60237cfbcb59b2813218327ccd494612 directx5/directx/dplayitn.inf
+a1fd9c4a01ab75c7c091350a06fdf579 directx5/directx/dplayjpn.inf
+6f375ee8eb6a3bfeeae55c0eaf414411 directx5/directx/dplaynec.inf
+ec54483132540d351cb1c709f539e005 directx5/directx/dplaypol.inf
+991c9d45bd2071c14a1e8a237cd53c4c directx5/directx/dplayspa.inf
+6634fe4bfb54d60683e2cf2799ceb9da directx5/directx/dplaysvr.exe
+4373a1630292302c4b1bd0dd98c4f0a4 directx5/directx/dplayx.dll
+53535370b0b9128f15a0a0efc712a853 directx5/directx/dpmodemx.dll
+0ba37bd8f8b031f679a7ab6c7af377bf directx5/directx/dpserial.dll
+d605e8db9a1de55e363c71c94accef32 directx5/directx/dpwsock.dll
+b840840b41f382e35b76dd5c3ee4b9f8 directx5/directx/dpwsockx.dll
+8105d6a4af9139afd02d27ca74b97f67 directx5/directx/drivers/usa/5631_dig.ini
+a38a8844a0c8625ca91555256a68353f directx5/directx/drivers/usa/5631_hwc.ini
+7ef1514efa715dd9837d9810b8241548 directx5/directx/drivers/usa/5631_swc.ini
+1de6bd1b90e9552f7671b78da9d9cd3a directx5/directx/drivers/usa/8811_dig.ini
+b060b19279bb59d084a7840a259fdfad directx5/directx/drivers/usa/8811_hwc.ini
+578e79c888ab0b6fea762deae1ce07df directx5/directx/drivers/usa/8811_swc.ini
+56876571ae6be159cd88b4bd2d4739d3 directx5/directx/drivers/usa/8814_dig.ini
+6b456101a704800c8f87f043cf9cce66 directx5/directx/drivers/usa/8814_hwc.ini
+fbf5d83a51bd51f5a0e54f9595b4be99 directx5/directx/drivers/usa/8814_swc.ini
+9e0f0b3496400b24f6e27322e01533fa directx5/directx/drivers/usa/ati.vxd
+57d9a46a89576216dafe83cdad7c8232 directx5/directx/drivers/usa/atim32.dll
+7830852b8691c558003068d3bd37009e directx5/directx/drivers/usa/atim32.drv
+0f7cdf1eec3e3f30af7582015c2ab5ce directx5/directx/drivers/usa/atim64.dll
+96c48656c54bb613ca2e0c10763d8762 directx5/directx/drivers/usa/atim64.drv
+4d411f954ab0a6ae9e6f76a54931bde4 directx5/directx/drivers/usa/atim8.drv
+a745f9c4a9076b4de98be5f34eaa5342 directx5/directx/drivers/usa/ati_d3d.dll
+165d2687bbfe56c3ccab97d8599e8d66 directx5/directx/drivers/usa/ati_dd16.dll
+32e92e33dddd1ecd158347ecfa7dace9 directx5/directx/drivers/usa/ati_dd32.dll
+e3e29749369c3686e35055f81756a1a7 directx5/directx/drivers/usa/ati_hal.dll
+532b032fa65d9e54db073ac785c44232 directx5/directx/drivers/usa/ati_m64.drv
+1463186ceef5ae4aed2252a65a9b8089 directx5/directx/drivers/usa/ati_m64.vxd
+d56d770668c5b98c4328c240213721ef directx5/directx/drivers/usa/ati_vpe.dll
+25f3dd1da662c7d661fc987db94124ce directx5/directx/drivers/usa/azt16.vxd
+cde17514e9056194d64fc518fbbb2adb directx5/directx/drivers/usa/azt16c.drv
+a15dbae1b95f3977a577747671a01ccb directx5/directx/drivers/usa/azt16w.drv
+a433b600cc267c8213dd36a34ddc6144 directx5/directx/drivers/usa/chipmm.dll
+ef7e8f21cb2f69172c948ba4ff83f3f3 directx5/directx/drivers/usa/chipmm.drv
+422e84805215f01802b4a21822f13cc5 directx5/directx/drivers/usa/chipmm.vxd
+2cb32d708099e19a345ae918536caf95 directx5/directx/drivers/usa/chips.dll
+baf32553615b61630f3f75f27f37e72a directx5/directx/drivers/usa/chips.drv
+1c66ea108fe8134980c45c29ee275bbb directx5/directx/drivers/usa/chips.vxd
+647a2d3bd49686f52b02ac631f6df5c0 directx5/directx/drivers/usa/cirrus.dll
+b5899c437f6acd35425eb560846e2322 directx5/directx/drivers/usa/cirrus.drv
+87cf4d7b14984fdc5da221c7f115cb57 directx5/directx/drivers/usa/cirrus.vxd
+3b263235f056bad3d06d2f5f58ba924d directx5/directx/drivers/usa/cirruslg.dll
+21993b7a34ea176a24bfa6ad569f75e3 directx5/directx/drivers/usa/cirruslg.drv
+3ad02f391a8e08790c74686c084b5732 directx5/directx/drivers/usa/cirruslg.vxd
+d3e6339a528ab13de1729e183e384eec directx5/directx/drivers/usa/cirrusmm.dll
+24099b560d8a14c24e7f68d92e1bed1a directx5/directx/drivers/usa/cirrusmm.drv
+453d1169e76c23d1bc9705af090c6100 directx5/directx/drivers/usa/cld3d.dll
+cbd2dda64698b206065cb4a90ea35873 directx5/directx/drivers/usa/cpq_bb.dll
+eb71c2bb32379db759d9291a82356142 directx5/directx/drivers/usa/cspman.dll
+8418ff75e72d1ee2833b2b12a08480ab directx5/directx/drivers/usa/ct_65550.dll
+c03e4e8c619da0331a3eda736ef4f144 directx5/directx/drivers/usa/cwbaudio.bin
+6b6163b8ab9acdfdbed3e4bed82e650d directx5/directx/drivers/usa/cwbaudio.drv
+d5d9e6332506b426be06dac4f46c062b directx5/directx/drivers/usa/cwbaudio.inf
+149fb58ffa1af85f0b165c91070a5071 directx5/directx/drivers/usa/cwbaudix.vxd
+cd0990ce11a470c79a11b92d7001bdb8 directx5/directx/drivers/usa/cwbfm.drv
+6ef9dacb25ba8e5f2353ba57a952edcd directx5/directx/drivers/usa/cwbjoy.vxd
+727fc61f370748ec3df5a5c3f413a134 directx5/directx/drivers/usa/cwbmidi.drv
+cf1d957cf8dc6361a519c7e49769a259 directx5/directx/drivers/usa/cwbmidi.vxd
+3b55144bfa6e56fdb2156e52e291aace directx5/directx/drivers/usa/cwbpcple.dll
+5ef942ba8c13576169b50c0a7c22f232 directx5/directx/drivers/usa/drivers.ddb
+473b17bf78b9ad04ab5b5fceb6e365a0 directx5/directx/drivers/usa/dxati.inf
+53e2a773527935f9a975f2e88d0a19ca directx5/directx/drivers/usa/dxchips.inf
+1410e96604170fd4efd87505a2cb74b2 directx5/directx/drivers/usa/dxcirrus.inf
+c389782a0f7d397757f93adf6770bbe7 directx5/directx/drivers/usa/dxglint.inf
+83ff78235e9890b86b63aaf5e483e531 directx5/directx/drivers/usa/dxi128.inf
+14af91e547d31ed866a70adbb19e85f3 directx5/directx/drivers/usa/dxmga.inf
+f87a7cdeaa16db0f75a6f6615541bdc0 directx5/directx/drivers/usa/dxmm3dfx.inf
+1ef1df63a207b2fee0d033b0200d5e16 directx5/directx/drivers/usa/dxneom.inf
+a63cd7d88ecdb9534619c65abfe99e6e directx5/directx/drivers/usa/dxpmedia.inf
+3dfdb3c49e93e683ace4af4e46f1d76a directx5/directx/drivers/usa/dxrend.inf
+ea3cf1022c14b21bcea9f16e42de6eb1 directx5/directx/drivers/usa/dxs3.inf
+c37f4468d76cd49d5e5516244ad06a1d directx5/directx/drivers/usa/dxtrid.inf
+b84af7dd047e0e687be026115af94fdf directx5/directx/drivers/usa/dxtseng.inf
+0b8dc98d7e124f78319692dde05797da directx5/directx/drivers/usa/dxver.inf
+da8e20cd3ed5bef054a3cd2e54e8fa30 directx5/directx/drivers/usa/dxwd.inf
+3c1e237078982e81abb22a385bed8313 directx5/directx/drivers/usa/dx_ver.dll
+68d7af220cb988c7ef66887993146db5 directx5/directx/drivers/usa/es1488.drv
+46fd511abad0a6409a6d2ac5ed1734fe directx5/directx/drivers/usa/es1488.vxd
+c42ad4bd983a07ed3b7e95179cf47273 directx5/directx/drivers/usa/es1688.drv
+53bd1302fd4c1c7e89c841bf8098bdf6 directx5/directx/drivers/usa/es1688.vxd
+e1d7c976514d77d12bfe70ccc77069a8 directx5/directx/drivers/usa/es1788.drv
+a04a576fd42578147e831fee140968c2 directx5/directx/drivers/usa/es1788.vxd
+9e63bdb237266d64f0d180ae8ca3942c directx5/directx/drivers/usa/es488.drv
+026e265b9453dc6264d50bb5be783d39 directx5/directx/drivers/usa/es488.vxd
+f628069569ee30447a72397682b3f3a4 directx5/directx/drivers/usa/es688.drv
+0ff0f7940fa5f1ab4e62a5c42635ac75 directx5/directx/drivers/usa/es688.vxd
+4879c2d1fa1aed20a33d0488c9604353 directx5/directx/drivers/usa/esfm.drv
+603c89c460c2719d675d8f7a0f10704a directx5/directx/drivers/usa/essfm.drv
+612bdaeb662677e229a6abe6220e3e91 directx5/directx/drivers/usa/essmport.drv
+f741e8af22834badd8e3d92892d60756 directx5/directx/drivers/usa/essmpu.drv
+9c210c6c8cc3c4bb3b632c663394c49a directx5/directx/drivers/usa/et6000.dll
+506bd15da11be9a975b98fb85fcc189c directx5/directx/drivers/usa/et6000.drv
+b777f95e7f9df2b1b32f944d263c3729 directx5/directx/drivers/usa/et6000.vxd
+d39a8240edb47b3b2ea8dfc75606f09b directx5/directx/drivers/usa/f3audio.inf
+e89f8a2272ae85e9799d735454b19391 directx5/directx/drivers/usa/f3driver.vxd
+6af58bfc647e37f940a67a75a46b14ce directx5/directx/drivers/usa/f3dsound.vxd
+c2dabdf18a16fd9a165cfb154e6eb87b directx5/directx/drivers/usa/f3joystk.vxd
+5f1728b6dd4b419ece0d68db206a579e directx5/directx/drivers/usa/f3midi.drv
+e51a281ade9a2f97443c7af27c5c6df0 directx5/directx/drivers/usa/f3vrtsb.vxd
+d3f1f187998bff50837988eaf649d63d directx5/directx/drivers/usa/f3wavmix.drv
+5f1b5687f168eb55674c1b887727fee0 directx5/directx/drivers/usa/findmvi.dll
+217d89cd18dfb50dfd20e5bb40dd6529 directx5/directx/drivers/usa/framebuf.dll
+1609c54bf719396b9b49cee1c297fc0b directx5/directx/drivers/usa/framebuf.drv
+edfda295099af9ac4003d0d9dc2a3826 directx5/directx/drivers/usa/i128.dll
+90737d83bf9e68123493a3c933b039c7 directx5/directx/drivers/usa/i128.drv
+c59f770ff90bb6e426dcfb3dd12f34e6 directx5/directx/drivers/usa/i128.vxd
+24a1c015a6f357704a957208ae5f8614 directx5/directx/drivers/usa/isna.dll
+da2981ab6c1d4a9358f333dbbec5eb83 directx5/directx/drivers/usa/iss3_765.dll
+5118857a7c18f7d44a25d5543ea4280c directx5/directx/drivers/usa/license.txt
+b63c4555208b0553cffa95c76bff142e directx5/directx/drivers/usa/mgallx64.dll
+77ffd81cb7928f906cef6bf96b9d153f directx5/directx/drivers/usa/mgapdx64.drv
+3b059406fb63c6a05b1423e209d1ae02 directx5/directx/drivers/usa/mgapdx64.vxd
+bfaad2b0956a843e89fe6926c3de132b directx5/directx/drivers/usa/mgaxdd.drv
+95248653f456825c167e865d819e8747 directx5/directx/drivers/usa/mgaxdd.vxd
+b2f7f07e0726d836c9387b27980bec5f directx5/directx/drivers/usa/mgaxdd32.dll
+3eec079918426092e409212ecd0a95d5 directx5/directx/drivers/usa/mm3dfx.drv
+d3793b779088749473d1c8f38ff5ed86 directx5/directx/drivers/usa/mm3dfx.vxd
+1540f19d21da8914614cd125fcf9f702 directx5/directx/drivers/usa/mm3dfx16.dll
+66ed247a67e756571073b0a7e3194670 directx5/directx/drivers/usa/mm3dfx32.dll
+bad7d5cbf94b6895c0cc6fc963682783 directx5/directx/drivers/usa/mmmixer.dll
+8d4db038d52d48fb0802f6cf2dd3ce50 directx5/directx/drivers/usa/msanalog.vxd
+4d60cbf334d954222416394876e74f23 directx5/directx/drivers/usa/msddraw.inf
+e689be9d8ab67d7dc4175eb084fde23c directx5/directx/drivers/usa/msdsound.inf
+37c9450e069960d9f9035e7435692e5d directx5/directx/drivers/usa/msjstick.drv
+278a89c9d67c176be0ef0259f7caf702 directx5/directx/drivers/usa/msmpu401.drv
+609bb6104d925fe0179feef612f5b333 directx5/directx/drivers/usa/msopl.drv
+f60d57c192c1fe7027b0bbc80e3bd1e5 directx5/directx/drivers/usa/mssblst.drv
+63a3aea793a8d30ed940a525e7fe5601 directx5/directx/drivers/usa/mssblst.vxd
+0bc44a987157c0c1a21a7ac94cb9f6a6 directx5/directx/drivers/usa/mssndsys.drv
+b52d7f27d799196cebf8866351a76b40 directx5/directx/drivers/usa/mssndsys.vxd
+a2809bd30295ce198bc5d633140607ea directx5/directx/drivers/usa/mvi514mx.drv
+dee9ea822d6501a244db17103e0610e4 directx5/directx/drivers/usa/mviwave.drv
+4afaf82b18439e8e9ee11107d649be60 directx5/directx/drivers/usa/mvmixer.drv
+965bf6c89474ebded707177306487dcc directx5/directx/drivers/usa/mvpas.vxd
+fb6e3a0e666d2fcca2deba0495b3415c directx5/directx/drivers/usa/mvproaud.drv
+98d0fe429ddc5d31ec5ac49a7f6236e9 directx5/directx/drivers/usa/neom.dll
+30a485561efbe3f05771b0f8bc019813 directx5/directx/drivers/usa/neom.drv
+adf2c4a67aaa1ee2b1335ced7ef809bf directx5/directx/drivers/usa/neom.vxd
+17aa394019e14002493763b5e6254cba directx5/directx/drivers/usa/oak.vxd
+b08c08664b5fd12359e375543c02559f directx5/directx/drivers/usa/pa3dmxd.drv
+5a2864ffc54344dbd5a5546009b9ef1e directx5/directx/drivers/usa/pmedia.drv
+34f836947665cb7ccaf0d4d5afcdc194 directx5/directx/drivers/usa/pmedia.vxd
+3a9da5d7b0d1e2989815be4e1894a3b7 directx5/directx/drivers/usa/pmedia32.dll
+18d20560bb01e96025e4340ac19f5983 directx5/directx/drivers/usa/rend.drv
+c553cf3644c0df220ac0a4ece9fd1fe7 directx5/directx/drivers/usa/rend.vxd
+77d4b35f16254756cb7e1d6232344a3d directx5/directx/drivers/usa/rend2d.uc
+56fa522e039bb404228657db9e1078b1 directx5/directx/drivers/usa/rend32.dll
+e2e1c61f97c37b0a4e10fb00d8bd1be0 directx5/directx/drivers/usa/rend3d.uc
+c21b1d4dd745479e0a88e256f63d237a directx5/directx/drivers/usa/renduc.dll
+da26b16db4a362ce2554ad9f7a98b2d0 directx5/directx/drivers/usa/s3.dll
+4733360d71a3bc0dc9b2a51f648b6711 directx5/directx/drivers/usa/s3.drv
+7ec2136d856486577e8be46a3d37692b directx5/directx/drivers/usa/s3.vxd
+5ba887169bd7498515edb4aa1e2138c1 directx5/directx/drivers/usa/s3m65.dll
+916075a192a58a297be319370303d5e0 directx5/directx/drivers/usa/s3m65.drv
+5084622d1d1fe73a68efc96eb1d9050e directx5/directx/drivers/usa/s3m65.vxd
+d9ac6cb3ada4e8f8f2ee6d0e33ae0392 directx5/directx/drivers/usa/s3mm.dll
+5dc5959cde7ffd8c081993210ef19e1b directx5/directx/drivers/usa/s3mm.drv
+39d36ae9d195f323a26cd0bc551a3c48 directx5/directx/drivers/usa/s3v.dll
+a9700b62770fec91fe7ba4e15996c18d directx5/directx/drivers/usa/s3v.drv
+7f8df492af61ebb15085d059f15e58cd directx5/directx/drivers/usa/s3_cp3cq.dll
+db861104ffbeec0de973c3bb19ca49d7 directx5/directx/drivers/usa/sb16.vxd
+ff812e1f16da71db6f05e9d03f0edb9c directx5/directx/drivers/usa/sb16awe.inf
+4def17746396a41140cef7369c77eb2d directx5/directx/drivers/usa/sb16snd.drv
+10ad0b4977282f857232b2d1cdc87e6f directx5/directx/drivers/usa/sbawe.vxd
+7648650cf44754fc6b671ee11bffe10c directx5/directx/drivers/usa/sbawe32.drv
+1c2d7c3438df38821004cb3554878b7a directx5/directx/drivers/usa/sbfm.drv
+cd811a258804623a1500989e2cda0ed4 directx5/directx/drivers/usa/supervga.drv
+2496ad7e5c314dfdaf81ff790d286b73 directx5/directx/drivers/usa/synthgm.sbk
+de5289f6ebe5add040fc6243c3df0710 directx5/directx/drivers/usa/tmv1.mpd
+95cb49585a84077c65e349cfbacd7352 directx5/directx/drivers/usa/trid_bio.dll
+f587c93522d8e31819ef33c872b2b393 directx5/directx/drivers/usa/trid_pci.dll
+63c89caea7849b8e9c6a3e5227e03167 directx5/directx/drivers/usa/trid_pci.drv
+bc68279ab3fcb87767265863e5e509c2 directx5/directx/drivers/usa/trid_pci.vxd
+2b5b2da76e6b09fa5ad1398e0936b2eb directx5/directx/drivers/usa/tsd32.dll
+a7756bd84d7ce7e337d11f0d157d69fd directx5/directx/drivers/usa/tseng.dll
+324e02eaf6e2c005a1a66fe32a10765f directx5/directx/drivers/usa/tseng.drv
+ae59a6a73ea62e1b23642cdd078924db directx5/directx/drivers/usa/tseng.vxd
+681785fe8b9e22e2aa92476b8a7284b9 directx5/directx/drivers/usa/vga.drv
+da89ccd4d545adfc848ecae4cd7822a2 directx5/directx/drivers/usa/video7.vxd
+745244adcc1e29186f2ea8af58542081 directx5/directx/drivers/usa/vjoyd.vxd
+62f8dcb935753a570bbe56f6a79482d0 directx5/directx/drivers/usa/vmvid.vxd
+54dbe58fc9e80cd1c1ef095ec237a582 directx5/directx/drivers/usa/vpasd.vxd
+9e5ffa88f4c460db7cc9c1b9b165551b directx5/directx/drivers/usa/vwstream.vxd
+e7c27fe2280a31e579ae675312cb030b directx5/directx/drivers/usa/wave.inf
+ed6a3f1c5d4305d740b9ef22ce799ecc directx5/directx/drivers/usa/wd.dll
+efe563ccd6e7758083253199b5ec046d directx5/directx/drivers/usa/wd.drv
+b510f28a749ca6cc878385740ebafde5 directx5/directx/drivers/usa/wd.vxd
+69d33cc88cb40e9bc7d5729df7cae6e3 directx5/directx/drivers/usa/wfm0200.acv
+a6fe9b1a26a629fe2de34575d32cbcd7 directx5/directx/drivers/usa/wfm0200a.csp
+f0856158a9f004d03dada3d7037a76c7 directx5/directx/drivers/usa/wfm0201.acv
+5d58ad4bb8d2d834839fb9398479045d directx5/directx/drivers/usa/wfm0201a.csp
+a88701e40587deec1f860684918a4d61 directx5/directx/drivers/usa/wfm0202.acv
+842d7abed4049e2099b1cd6e60620889 directx5/directx/drivers/usa/wfm0202a.csp
+95ee4aa95ae560a7bac252883cdf86c1 directx5/directx/drivers/usa/wfm0203.acv
+67cb9004510242f2d95bd0c7137518af directx5/directx/drivers/usa/wfm0203a.csp
+a13922019262d46ece94e378ef3950d9 directx5/directx/drivers/usa/wstream.dll
+81b1c0377886ecc16a996da19bacbbab directx5/directx/dsetup.dll
+80c5907b85378e358eae52e6affb372f directx5/directx/dsetup16.dll
+cbd0cc376b0a70bd6d1cfc46ff764aa1 directx5/directx/dsetup32.dll
+6d369c7c45e0209a516dad466c6a2597 directx5/directx/dsound.dll
+44cef9c9a9bd79006f35f4304a89a5b9 directx5/directx/dsound.inf
+4751c137b741afe9ad15e6a0d31757c3 directx5/directx/dsound.vxd
+4b5c6ebe2d125d43e6dc4617c8d5af38 directx5/directx/dxinfo.exe
+88f2caeee0f43393ad189a80d9701205 directx5/directx/dxsetup.exe
+7c76649f77c0df934f7513bda84fe045 directx5/directx/dxtool.exe
+0b8dc98d7e124f78319692dde05797da directx5/directx/dxver.inf
+202d5533c06b074be3e1a6bb1666c23f directx5/directx/gcdef.dll
+b14caa49bbbcfcb86e166d95d9129a54 directx5/directx/gchand.dll
+3313d50b5655831e8a5bd1a4be4ed20c directx5/directx/joy.cpl
+5118857a7c18f7d44a25d5543ea4280c directx5/directx/license.txt
+81368bed39cd8bc192872af63eeba57b directx5/directx/msanalog.vxd
+9dbbf49e8d84bfafd3ca32289b0a6157 directx5/directx/mtrr.vxd
+745244adcc1e29186f2ea8af58542081 directx5/directx/vjoyd.vxd
+2e4eb7e70a4e6872b44d84542b602e6d directx5/directx/vmcpd.nec
+d4789f16afb3591f59c57fdbb59e6124 directx5/directx/vmcpd.x86
+81b1c0377886ecc16a996da19bacbbab directx5/dsetup.dll
+80c5907b85378e358eae52e6affb372f directx5/dsetup16.dll
+cbd0cc376b0a70bd6d1cfc46ff764aa1 directx5/dsetup32.dll
+8ee259ca96d1b9d5b8214882dffc5318 ereg/win/ereg.bin
+0bda08f6b311f085fbe9613639fa8230 ereg/win/ereg3201.dll
+c4cd3567e6fb3e337e7fe1f72b71b728 ereg/win/eregui.ini
+745f9f068272d425f88803b06d5ac251 ereg/win/eregui32.dll
+e36e33d32fc8151ca318cb281027157f ereg/win/inter.bmp
+3f6f355c54c6ccf75851252cb37cf216 ereg/win/prtbody.txt
+5848d24eb9f9bad17addf9f60dc896c0 ereg/win/reg32a.exe
+521c3c289a6b3d5122623f374f24d1ee ereg/win/regfax.txt
+9e82435cad719bede40de02179593e50 ereg/win/regmail.txt
+092cf3152fa739d551f8070a967dd5aa ereg/win/regrcrd.txt
+1d8892b7119c607002a4d7b1118502c7 ereg/win/regxmit.txt
+e0010238a9153296cb11e0051e3c5688 manual/adobe/ar32e301.exe
+5fe8772c2a306bd9c2c31e3696a6f05c manual/manual.pdf
+35e1915fd3a25eadc694664586f8ce71 master.dat
+b260d853eafe6298732c23ca9124c3e2 mindspring/mindspring readme.txt
+6a3532709751a386efc62b5e71e1cbeb mindspring/small install/autorun/autorun.wav
+0d10d728927069a6b5a3de033390dea7 mindspring/small install/autorun/cdauto.exe
+a5f268fc075ade9733965337a86e604e mindspring/small install/autorun.inf
+620c1dace31aefae7f91808537f6520a mindspring/small install/cdrom.id
+3c2359490ab9c487fc03aa7d8fe5693d mindspring/small install/install.exe
+e31fcbc59d963b5deca34adbc07d71f2 mindspring/small install/media.id
+cfd077980c02f7b8fa7e49cc9fda0c0b mindspring/small install/oem.id
+70d62b11c2048b2e6e718ae8ad25cfdf mindspring/small install/platform.id
+583bb735a4b96688b1e8565bd42ab1a4 mindspring/small install/setup/306.10
+a6f2cf7e7521420ad0c1e72d2f6eee05 mindspring/small install/setup/files/ak.loc
+fdfac43053efc01cb2ed1955e51ee838 mindspring/small install/setup/files/al.loc
+5c31264ebff54f42dd9b1c34904e10f3 mindspring/small install/setup/files/ar.loc
+837ff6a7385c0eeca7bde73792e79340 mindspring/small install/setup/files/az.loc
+127a00ef3281ba4841c01169948f9286 mindspring/small install/setup/files/ca.loc
+126376dbc57376af77e83f1e9316c378 mindspring/small install/setup/files/cancel.ins
+0eaf08576f9fa662ce1ca64e92efc95f mindspring/small install/setup/files/co.loc
+8c267399f5a4cee60566c5522010a859 mindspring/small install/setup/files/ct.loc
+75d44291a5eb719d0981cda8101fec6f mindspring/small install/setup/files/dc.loc
+781b905a1e6ae9be14a6f56ca91b9598 mindspring/small install/setup/files/de.loc
+0d37d4e7281923064254c8092c9b9ee1 mindspring/small install/setup/files/fl.loc
+87ebd88247879798747132ad20984ded mindspring/small install/setup/files/ga.loc
+bf4a433d391e053161fd1776d2be8771 mindspring/small install/setup/files/hi.loc
+f369010841de05f65974a32b22c243e7 mindspring/small install/setup/files/ia.loc
+f13e33bca6b365d7934e47dcea8a2810 mindspring/small install/setup/files/id.loc
+04c6ef2a262f7a8579df52963525136a mindspring/small install/setup/files/il.loc
+c0fdd84b64fff4ef72705dbcc29a2a96 mindspring/small install/setup/files/in.loc
+17c8d2bf03e9fed2ef870a8195c8e536 mindspring/small install/setup/files/ks.loc
+0502a213e32680bda364b7e08c49c7e2 mindspring/small install/setup/files/ky.loc
+41371e83dc25ac060530821e247e480f mindspring/small install/setup/files/la.loc
+801e51d5d7b402c8cc41aa5f1e101313 mindspring/small install/setup/files/ma.loc
+dff63ddd845593ccb27d2730eb4fd872 mindspring/small install/setup/files/master.loc
+34f9bfea5a85b4ad1e29cce19f060be6 mindspring/small install/setup/files/md.loc
+2c34179a520420363fdf1c9ee9d0f1b0 mindspring/small install/setup/files/me.loc
+b60b160cb06610cb9e0591a04d62e653 mindspring/small install/setup/files/mi.loc
+1224fbf42c95b2e8ae4c962b921f928f mindspring/small install/setup/files/mn.loc
+74c3a4f3e69e7c6c3fa986a2fda0090f mindspring/small install/setup/files/mnds.ins
+ff6415b6332b84ef8227703aaf4bfec3 mindspring/small install/setup/files/mo.loc
+157249b4083cd4a76a1a4364a5d53cea mindspring/small install/setup/files/ms.loc
+19bbf1b8578cfa2dcfc8aa330b740f4d mindspring/small install/setup/files/mshead.gif
+5b1a68a5a4ded0b313542389d6fcd56d mindspring/small install/setup/files/mspgdone.htm
+b5b9499e2f456a62a6ba64e97dcb3373 mindspring/small install/setup/files/mspgsign.htm
+7964df3e08f3b78b0d158a765694ec51 mindspring/small install/setup/files/msshexec.bin
+ee9d7f7071bd2f0c6d63fbd6314dadc4 mindspring/small install/setup/files/msunsico.bin
+c9b124c2a2e522c67c570e31b20403f5 mindspring/small install/setup/files/mt.loc
+155928273ab24afb223058ece0556b94 mindspring/small install/setup/files/nc.loc
+6d8fb82a4a89e41561ba02ff81273dc1 mindspring/small install/setup/files/nd.loc
+3d74eedd82dcf6b18fc1d5de29f7079c mindspring/small install/setup/files/ne.loc
+3f4ee8fd1c2be78741c9e26a9948be8d mindspring/small install/setup/files/nh.loc
+8d34af2e0a20dffd2a66bf4e7e28d858 mindspring/small install/setup/files/nj.loc
+87efaf2ff6a5d08d8363093bea6683e4 mindspring/small install/setup/files/nm.loc
+99df5823d8d9239e7d9fcaa8ce69d2f7 mindspring/small install/setup/files/nv.loc
+b5f6729560ad0644ab9581242e713090 mindspring/small install/setup/files/ny.loc
+59b2dce2f68afcabac98868767530ebb mindspring/small install/setup/files/oh.loc
+fb454e1e15c0cf0551d9bde21e37707b mindspring/small install/setup/files/ok.loc
+904507e77134acb41130924a75ae58c2 mindspring/small install/setup/files/or.loc
+4cb8b8206b8dbbf96d3eeb06c5794bdd mindspring/small install/setup/files/pa.loc
+bd8962063347908b4840e3333359be52 mindspring/small install/setup/files/ri.loc
+494161bb920e0b020b4da4c95fd506f7 mindspring/small install/setup/files/sc.loc
+a485d63100aebd233bc762833053b917 mindspring/small install/setup/files/sd.loc
+fda6c0728ed3c674048a0490ff25af81 mindspring/small install/setup/files/service.txt
+cdaf168e12587e528f42b243c3110b21 mindspring/small install/setup/files/signup.htm
+5e28710ae9f47df126af64dc7595d144 mindspring/small install/setup/files/signup.isp
+56781ad782bec095800ed7ce6e49a5b2 mindspring/small install/setup/files/tn.loc
+61e5680192a146e4ee19c8e396d782ed mindspring/small install/setup/files/tx.loc
+a0421b63a5ebc1e60efb0ec56afc10b0 mindspring/small install/setup/files/ut.loc
+9bcf78727ef1bfc76160f1f7dee10ddd mindspring/small install/setup/files/va.loc
+3de8cc61ce340e4c840742402616f3fb mindspring/small install/setup/files/vt.loc
+d8e658ff124cdb759ec2a829157d213f mindspring/small install/setup/files/wa.loc
+6a8bc26730be3f1677a03724eed04490 mindspring/small install/setup/files/wi.loc
+6c0174b20eea0bacbfb20ee7bafbef3e mindspring/small install/setup/files/wv.loc
+4dd5212ca76fdd821102c47c63805a59 mindspring/small install/setup/files/wy.loc
+2e3c439ba58d3e03537b1eadf0abb4f8 mindspring/small install/setup/files/_setup.exe
+f67db8b15e6d24e56cd843bb121573be mindspring/small install/setup/files/_setup.ilb
+e380168d3c473e17cec0d14b9e12ac57 mindspring/small install/setup/files/_setup.ini
+ad0905f7c1f211507345ac88308bc8b2 mindspring/small install/setup/install.id
+f8b84a876abdb2f391c56936949dc672 mindspring/small install/setup/mid/msap3.exe
+8831ac24e2db477c134c396342b4bee9 mindspring/small install/setup/setup.exe
+3c2359490ab9c487fc03aa7d8fe5693d mindspring/small install/setup.exe
+941148cfb50f340257ccc5e11ac966f4 program/win/cfgwin.___
+1fe4509ac1f55ba45517e5f580648432 program/win/fallout2.___
+ffff7c32a98ee2feeb3f41e389e2c840 readme.txt
+e632804bf00ca20bf1a5b99b8e5d3571 setup.dat
+52277de73cb8b1c2d70f91c76582b5df setup.exe

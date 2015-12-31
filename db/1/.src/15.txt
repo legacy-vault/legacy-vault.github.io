@@ -1,0 +1,12 @@
+<a href="arch/sum.7z" title="7-ZIP, LZMA, Compression Level 1.">[7-ZIP]</a> 
+<a href="arch/sum.arj" title="ARJ, M=4 HK=9.">[ARJ]</a> 
+<a href="arch/sum.tar.bz2" title="BZIP2, Compression Level 1.">[BZIP2]</a> 
+<a href="arch/sum.cab" title="CAB.">[CAB]</a> 
+<a href="arch/sum.tar.gz" title="GZIP, Compression Level 1.">[GZIP]</a> 
+<a href="arch/sum.lhz" title="LHZ, Algorithm O5.">[LHZ]</a> 
+<a href="arch/sum.tar.lz" title="LZIP.">[LZIP]</a> 
+<a href="arch/sum.tar.lzo" title="LZO, Adler32 Block Check, Compression Level 1.">[LZO]</a> 
+<a href="arch/sum.rar" title="RAR, Compression Level 1.">[RAR]</a> 
+<a href="arch/sum.tar" title="TAR, POSIX.1-2001 Standard.">[TAR]</a> 
+<a href="arch/sum.tar.xz" title="XZ, LZMA2, CRC64 Block Check, Compression Level 1.">[XZ]</a> 
+<a href="arch/sum.zip" title="ZIP, Compression Level 1.">[ZIP]</a>

@@ -1,0 +1,17 @@
+CPU Class: 80486; <br>
+OS Class: DOS 4.0 to 6.22; <br>
+RAM: 8 MiB; <br>
+CD-ROM Drive Speed: 2X; <br>
+Video Modes Supported: SuperVGA; <br>
+Sound Devices Supported: Adlib Gold, General MIDI, Microsoft Sound System, Sound Blaster, Sound Blaster 16, Sound Blaster AWE32, Sound Blaster Pro; <br>
+Input Devices Supported: Keyboard, Mouse; <br>
+<br>
+<small>
+To install and run the Game in DOSBox, use mounting from inside the DOSBox, not via external Tools! 
+Mounting a Daemon Tools's virtual Drive to DOSBox hanges the Emulator. 
+To mount the CD Disk use DOSBox command "imgmount". <br>
+<br>
+Example: <br>
+imgmount d "path_to_iso_file/abc.iso" -t iso<br>
+In Installator it is better to select SoundBlaster compatible Card (if you have it). Has been tested on Audigy 4 successfully.
+</small>

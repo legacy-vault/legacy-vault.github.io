@@ -1,0 +1,3 @@
+The very first and very valuable Release of the Heroes of Might and Magic Game! 
+The Release contained no audio Tracks, but unstead it had three (3) Versions of Sound Effects: 
+8-bit Mono, 16-bit Mono, 16-bit Stereo. All further DOS Releases contained Effects only in 8-bit Mono Format. 
