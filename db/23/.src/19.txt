@@ -1,0 +1,26 @@
+System requirements for installing Windows 95: <br>
+<br>
+    Personal computer with a 386DX or higher processor (486 recommended); <br>
+    4 megabytes (MB) of memory (8 MB recommended); <br>
+    Typical hard disk space required to upgrade to Windows 95: 35-40 MB The 
+    actual requirement varies depending on the features you choose to install; <br>
+    Typical hard disk space required to install Windows 95 on a clean 
+    system: 50-55 MB The actual requirement varies depending on the features you choose to install; <br>
+    One 3.5-inch high-density floppy disk drive; <br>
+    VGA or higher resolution (256-color SVGA recommended). <br>
+<br>
+To use Microsoft Exchange and The Microsoft Network:<br>
+<br>
+    8 MB of memory; <br>
+    20 MB of additional hard disk space; <br>
+    Modem (required for using The Microsoft Network). <br>
+<br>
+Optional components:<br>
+<br>
+    Microsoft Mouse or compatible pointing device; <br>
+    Modem or fax/modem; <br>
+    Audio card and speakers for sound. <br>
+<br>
+Installing Windows 95 requires more hard disk space than running Windows 95 because 
+the Setup program creates temporary files on the hard disk during the installation process. 
+These temporary files are removed when Setup is finished.
