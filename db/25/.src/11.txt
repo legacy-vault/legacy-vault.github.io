@@ -1,0 +1,25 @@
+Windows 95 is a consumer-oriented Operating System developed by Microsoft. 
+It was a significant Improvement over the Company's previous DOS-based Windows Products. 
+Windows 95 offered, at long last, a well designed document-oriented Desktop Shell 
+that worked much like the 1984 Macintosh Finder. It also included a new Way of 
+finding installed Applications through a "Start" Menu. And it included the same networking 
+Abilities as Windows for Workgroups. <br>
+
+<br>
+It integrated the Ability to run 32-bit Applications similar to Windows NT or Windows 3.1 
+with Win32s. It no longer ran on a Separate DOS Product. But Windows 95 was not a pure 
+"32-bit" OS: It was still based around the Framework of Windows 3.x, 2.x and 1.x. 
+It still ran on top of DOS, but bundled its own special "Windows 95" DOS 
+(also known as MS-DOS 7). It could even still make Use of DOS Drivers! <br>
+
+<br>
+Windows 95 was designed to be maximally compatible with existing MS-DOS and 16-bit 
+Windows Programs and Device Drivers, while offering a more stable and better performing 
+System. Windows 95 Architecture is an Evolution of Windows for Workgroups' 386 enhanced Mode. 
+The lowest Level of the Operating System consists of a large Number of virtual Device Drivers 
+(VxDs) running in 32-bit protected Mode and one or more virtual DOS Machines running in 
+virtual 8086 Mode. The virtual Device Drivers are responsible for handling physical Devices 
+(such as Video and Network Cards), emulating virtual Devices used by the virtual Machines, 
+or providing various System Services. The three most important virtual Device Drivers are: 
+Virtual Machine Manager (VMM32.VXD), Configuration Manager (CONFIGMG) and 
+Installable File System Manager (Input/Output Subsystem). 

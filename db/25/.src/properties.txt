@@ -1,0 +1,26 @@
+Category
+Type
+Platform
+Media Type
+Developer
+Publisher
+Release Date
+Release Region
+Language
+Description Page
+Description Text
+Statistics
+Parameters of Image
+Parameters of Files
+Parameters Archives
+Visuals
+Version
+Patch Notes
+System Requirements
+Recommended System
+Screen Resolution
+Video Samples
+Screenshots & Images
+Introduction Text
+Network
+Links

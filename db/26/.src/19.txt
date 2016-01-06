@@ -1,0 +1,7 @@
+System requirements for installing Windows 95: <br>
+<br>
+    Personal computer with a 386DX or higher processor (486 recommended); <br>
+    12 megabytes (MB) of memory; <br>
+    666 MB on HDD; <br>
+    Floppy Disk Drive and CD-ROM Drive; <br>
+    VGA or higher resolution (256-color SVGA recommended).

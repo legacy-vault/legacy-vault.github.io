@@ -1,0 +1,14 @@
+0419cfec Disk01.img
+9779395f Disk02.img
+c3bcf726 Bootdisk.img
+03cc2de2 Disk09.img
+8d1f3521 Disk06.img
+84e8ad0f Disk10.img
+ac65eecd Disk03.img
+ad4e8fbd Disk11.img
+b09d3d29 Disk04.img
+4eb6584d Disk05.img
+d4b88fc6 Disk12.img
+898b67c4 Disk13.img
+390bee24 Disk07.img
+9335db0f Disk08.img
