@@ -1,5 +1,3 @@
-Not yet available.
-<!-- 
 <a target="_blank" href="sum/disk/1/attrib.txt" title="Attributes: Time of Creation, Date of Creation, Size in Bytes, File's Name.">[Attributes]</a> 
 <a target="_blank" href="sum/disk/1/aich.txt" title="AICH Algorithm Check Sums.">[AICH]</a> 
 <a target="_blank" href="sum/disk/1/btih.txt" title="BTIH Algorithm Check Sums.">[BTIH]</a> 
@@ -26,4 +24,3 @@ Not yet available.
 <a target="_blank" href="sum/disk/1/tiger.txt" title="Tiger Algorithm Check Sums.">[Tiger]</a> 
 <a target="_blank" href="sum/disk/1/tth.txt" title="DC++ TTH Algorithm Check Sums.">[DC++&nbsp;TTH]</a> 
 <a target="_blank" href="sum/disk/1/whirlpool.txt" title="Whirlpool Algorithm Check Sums.">[Whirlpool]</a>
--->

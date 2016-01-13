@@ -10,3 +10,9 @@ Disk uses Safedisc v1.41.000 Copy Protection with 797 weak Sectors ranging from 
 Patches change the Copy Protection Scheme. Official 3.1 patch downgrades the Protection to 
 Safedisc v1.40.004 while official 3.2 Patch upgrades the Protection to Safedisc v1.50.020.
 </small>
+<br>
+<br>
+<small>
+The Hash Sums here are made only for an ISO Image while the original RAW Image of the Disk 
+is not available at this Moment. 
+</small>
