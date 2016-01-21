@@ -1,4 +1,2 @@
-515353322f06a94c294db836839c29e2 Heroes of Might and Magic III Complete (2000) Disc1.mds
-0f963b185656e04574ebb65035125650 Heroes of Might and Magic III Complete (2000) Disc2.mds
-a577e7469698c2aa9a5691b01dc72f31 Heroes of Might and Magic III Complete (2000) Disc2.mdf
-0423b61841a1ca340e865d7a362c8b82 Heroes of Might and Magic III Complete (2000) Disc1.mdf
+8744fbc877ce17c366dc74d5eda70b30 heroes3-complete-play.iso
+ef05bf0b734629a97cd7bc6d7a1fb691 heroes3-complete-install.iso

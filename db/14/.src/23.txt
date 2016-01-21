@@ -123,7 +123,7 @@
 <a target="_blank" href="http://game-image.comli.com/Heroes of Might and Magic III Screnshots/town_24.bmp" title="BMP 16-Bit, 800x600">[123]</a> 
 <a target="_blank" href="http://game-image.comli.com/Heroes of Might and Magic III Screnshots/town_25.bmp" title="BMP 16-Bit, 800x600">[124]</a> 
 <a target="_blank" href="http://game-image.comli.com/Heroes of Might and Magic III Screnshots/town_26.bmp" title="BMP 16-Bit, 800x600">[125]</a> 
-<a target="_blank" href="http://game-image.comli.com/Heroes of Might and Magic III Screnshots/c2002_autorun_1.bmp" title="BMP 16-Bit, 600x400">[126]</a> 
-<a target="_blank" href="http://game-image.comli.com/Heroes of Might and Magic III Screnshots/c2002_autorun_2.bmp" title="BMP 16-Bit, 600x400">[127]</a> 
-<a target="_blank" href="http://game-image.comli.com/Heroes of Might and Magic III Screnshots/c2002_autorun_3.bmp" title="BMP 16-Bit, 600x400">[128]</a> 
-<a target="_blank" href="http://game-image.comli.com/Heroes of Might and Magic III Screnshots/c2002_autorun_4.bmp" title="BMP 16-Bit, 600x400">[129]</a>
+<a target="_blank" href="http://game-image.comli.com/Heroes of Might and Magic III Screnshots/c2000_autorun_1.bmp" title="BMP 16-Bit, 600x400">[126]</a> 
+<a target="_blank" href="http://game-image.comli.com/Heroes of Might and Magic III Screnshots/c2000_autorun_2.bmp" title="BMP 16-Bit, 600x400">[127]</a> 
+<a target="_blank" href="http://game-image.comli.com/Heroes of Might and Magic III Screnshots/c2000_autorun_3.bmp" title="BMP 16-Bit, 600x400">[128]</a> 
+<a target="_blank" href="http://game-image.comli.com/Heroes of Might and Magic III Screnshots/c2000_autorun_4.bmp" title="BMP 16-Bit, 600x400">[129]</a>
