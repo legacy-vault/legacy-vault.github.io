@@ -1,7 +1,8 @@
-// Legacy Vault
-// html_item_game
-// main.h
-// Version 1.3
+// Legacy Vault.
+// html_item_game.
+// main.h.
+// Last Edited on 2017-02-02.
+// Version 1.4.
 
 #ifndef MAIN_H
 #define MAIN_H

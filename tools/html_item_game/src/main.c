@@ -1,7 +1,8 @@
-// Legacy Vault
-// html_item_game
-// main.c
-// Version 1.3
+// Legacy Vault.
+// html_item_game.
+// main.c.
+// Last Edited on 2017-02-02.
+// Version 1.4.
 
 #include <stdio.h>
 #include <stdlib.h>
